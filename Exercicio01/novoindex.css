@@ -47,19 +47,11 @@ footer p {
 }
 
 a {
-  color: #ffffff;
+  color: #004d61;
   text-decoration: none;
   font-weight: bold;
 }
 
 a:hover {
   text-decoration: underline;
-}
-
-span {
-    color: #004d61;
-}
-
-span:hover {
-    text-decoration: underline;
 }
